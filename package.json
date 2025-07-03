@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/felivasquez/entregasPDI/issues"
   },
-  "homepage": "https://github.com/felivasquez/entregasPDI#readme"
+  "homepage": "https://github.com/felivasquez/entregasPDI#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "date-fns": "^4.1.0"
+  }
 }
